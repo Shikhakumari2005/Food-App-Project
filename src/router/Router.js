@@ -6,5 +6,7 @@ const router= createBrowserRouter([
         path:"/",
         element:<h1>Hello Softwar devloper</h1>
     }
+
+    
 ])
 export default router;
